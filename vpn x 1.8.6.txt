@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی","message":"در حال حاضر یکی از بهترین فیلتر شکن به نام TOP VPN   و جای این برنامه استفاده کنید در کانال تلگرام  مود شده قرار داده شده است حتما دانلود کنید ","dismissable":true,"dismissTxt":"رد","okTxt":"دانلود در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
