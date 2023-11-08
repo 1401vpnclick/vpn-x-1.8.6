@@ -1,1 +1,1 @@
-{"title":"کاربرگرامی","message":"این برنامه و نسخه های موجود دچار مشکل است لطفا از TOP VPN استفاده کنید ","dismissable":true,"dismissTxt":"رد","okTxt":"دانلود در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+{"title":"کاربر گرامی","message":"این فیلتر شکن دچار مشکل است لطفا ان را حذف کنید و از RUN VPN اسفاده کنید","dismissable":false,"dismissTxt":"رد","okTxt":"از تلگرام دانلود ","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
